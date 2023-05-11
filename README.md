@@ -1,16 +1,52 @@
-# Create_custom_Portfolio
+# Whale Analysis
 
-This repo will create a custom portfolio after reading in csv data which consist of a number of Tickers.
+This project is an analysis of whale data in the financial market. The Jupyter Notebook provides detailed insights and visualizations on the performance and correlation of various whale portfolios.
 
-## Clean & Tidy Dataframes
-After reading in our data into a dataframe we need to be sure no values are missing if there are nulls present then we proceed to drop missing values.
+## Table of Contents
 
-# Plotting and Drawing Conclusions
+- [Project Overview](#project-overview)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Analysis](#analysis)
+- [Contributing](#contributing)
+- [License](#license)
 
-We then performed quantative analysis (things calculated: _Standard_ _Deviation_, _Rolling_ _Statistics_, _Covariance_, _Variance_, _Beta_, _Correlation_) on the joined table we created from the ticker data we read in earlier.
+## Project Overview
 
-## Our Portfolio & Our Quantative Analysis
-Lastly we'll create our own custom portfolio and compare it's quantative analysis to that of the rest of the portfolios/stocks we've worked with.
+Whale Analysis is a comprehensive study of different whale portfolios in the financial market. The Jupyter Notebook explores the performance, volatility, and correlation of these portfolios using historical price data.
 
-# Conclusion
-A brief description of what I concluded from the experiment.
+## Installation
+
+1. Clone the repository:
+''git clone https://github.com/NapoliMunk/Create_custom_Portfolio.git
+
+2. Navigate to the project directory:
+''cd Create_custom_Portfolio
+
+
+3. Open the `whale_analysis.ipynb` file using Jupyter Notebook.
+
+## Usage
+
+1. Follow the installation instructions to set up the project.
+2. Execute the notebook cells to run the analysis and generate visualizations.
+3. Customize the analysis by modifying the input data or adding new calculations as needed.
+
+## Analysis
+
+The notebook provides the following analysis and visualizations:
+
+- Performance comparison of different whale portfolios
+- Volatility analysis of each portfolio
+- Correlation analysis between portfolios
+- Risk-return profile of the portfolios
+
+The analysis aims to provide insights into the performance and risk characteristics of whale portfolios, helping investors make informed decisions.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per the terms of the license.
