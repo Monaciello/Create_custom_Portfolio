@@ -18,10 +18,10 @@ Whale Analysis is a comprehensive study of different whale portfolios in the fin
 ## Installation
 
 1. Clone the repository:
-''git clone https://github.com/NapoliMunk/Create_custom_Portfolio.git
+'''git clone https://github.com/NapoliMunk/Create_custom_Portfolio.git
 
 2. Navigate to the project directory:
-''cd Create_custom_Portfolio
+'''cd Create_custom_Portfolio
 
 
 3. Open the `whale_analysis.ipynb` file using Jupyter Notebook.
